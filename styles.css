@@ -90,4 +90,5 @@ nav ul{
     color: white;
     background-color: black;
     border-radius: 15%;
+    cursor: pointer;
 }
